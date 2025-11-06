@@ -1,6 +1,6 @@
 # Hybrid Grid EA
 
-https://github.com/user-attachments/assets/105e4a59-62b6-44f0-9706-98ef9819d847
+https://github.com/user-attachments/assets/60eb8676-98e6-4f38-9416-911cc372a6e5
 
 > **Note:** This version of EA is legacy and has not been updated for a long time.  
 > It remains available for archival and educational purposes only.
