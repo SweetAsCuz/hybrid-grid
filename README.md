@@ -2,9 +2,8 @@
 
 > **Note:** This version of EA is legacy and has not been updated for a long time.  
 > It remains available for archival and educational purposes only.
-> Works best on high time frame ranging/consolidation symbols like EURUSD, GPBUSD, etc.
 
-A flexible grid-based trading Expert Advisor for MetaTrader 5, designed for multi-symbol management and dynamic profit/loss tracking.
+A flexible grid-based trading Expert Advisor for MetaTrader 5, designed for multi-symbol management and dynamic profit/loss tracking. Works best on high time frame ranging/consolidation symbols like EURUSD, GPBUSD, etc. Best results are yielded through large amount of repeated TPs and smaller grid.
 
 ## Features
 - Precise grid placement (Buy/Sell Limit & Stop)
